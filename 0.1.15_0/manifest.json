@@ -41,7 +41,7 @@
       "48": "assets/logo_128.png",
       "64": "assets/logo_128.png"
    },
-   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6dWad/jf7iEe4DN4jDhQ0wF6Xc/tAkwMKmkU1usX4Xid7NkiDrdrdWcrD6XHQKX0MNqJwmReHiVUzP0feGcn3quafNWjDBgdnkwspfbjDjGJ/E2r4T5gCSt5e0w683qVlOtDFcqBT+YYU3RtpxUtneZyKYgofdPbvwBwOzqGZK1NcsFIqA0U3cJw++3iLnabswyE7Y7J1aanPVKSONC53nZeE/SyIdmEFcRQpkU+TRpXx9aFoNigLj7yoIA0YJxcQ/ISrjMj4BcDXz76cD/AFBKLa71IG9AwXfSr8VLgupzNtB6Mz/lDbiT6ITjCaTP3rEdFVrM1dxHSdU8IlNcDjwIDAQAB",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArDbiGxuGUT2HEUv+HAwzY6sbDMWzT3TJPuRtE24/0TzmudKtUwNJxy4t4JnEPjA4hlyw8QBzBSGKUN0d+aSPKPYu4EyYzZOblCCuwVaueWf3WGQMy+F5SvaKOMRL6eY0CHb9Lau53xS14FUVpfVVmV1UmmE463COJOv/akLDnc8U67jO6Skzyw9pdsi1KdPt1xRAjVT/6ZSKPZz8PM6sukVmiQlRSLQjsxMvmysQ0IuyxpWZfbr++wogS42YioW4gCSE3jNw15/6M3fSg/B8xoySCXkQEZrzDmdFKFwErCE/IDUJ5rOpva0hOIy777+meINVM63DL8NuvqOb4wxCXwIDAQAB",
    "manifest_version": 3,
    "name": "__MSG_extName__",
    "optional_permissions": [ "clipboardWrite" ],

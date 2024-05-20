@@ -8570,7 +8570,7 @@
                 (e) => (
                   e.replace("at ", ""),
                   e.replace(
-                    "chrome-extension://fejabnggkpabpiidogafkakidocellai/",
+                    "chrome-extension://mhpninceiiepjjippgkmdgohcbinodfe/",
                     ""
                   ),
                   e
