@@ -1,0 +1,160 @@
+{
+   "allParticipantFilter": {
+      "description": "参加者フィルター",
+      "message": "すべて"
+   },
+   "answerFontSizeSettingsText": {
+      "description": "オプションモジュール",
+      "message": "回答のフォントサイズ"
+   },
+   "answerText": {
+      "description": "回答モジュール",
+      "message": "回答"
+   },
+   "askButtonName": {
+      "description": "質問ボタンの名前",
+      "message": "質問"
+   },
+   "askTooltipButtonName": {
+      "description": "質問ツールチップのボタン名",
+      "message": "質問する"
+   },
+   "copyButton": {
+      "description": "コピーのボタン名",
+      "message": "コピー"
+   },
+   "copyToClipboardMessage": {
+      "description": "コピーのモジュール",
+      "message": "クリップボードにコピー"
+   },
+   "dialogMessageFontSizeSettingsText": {
+      "description": "オプションモジュール",
+      "message": "ダイアログメッセージのフォントサイズ"
+   },
+   "enableOnStartSettingsText": {
+      "description": "オプションモジュール",
+      "message": "デフォルトで Ask_me をオンにする"
+   },
+   "explainButtonName": {
+      "description": "説明ボタンの名前",
+      "message": "説明"
+   },
+   "explainTooltipButtonName": {
+      "description": "説明ツールチップのボタン名",
+      "message": "説明"
+   },
+   "explanationText": {
+      "description": "回答モジュール",
+      "message": "説明"
+   },
+   "extDesc": {
+      "message": "Google Meet プラットフォーム上の通話中に即時の回答と音声説明を提供する Google Meet ChatGPT-4 アシスタント。"
+   },
+   "extName": {
+      "message": "Google Meet 用の ChatGPT アシスタント"
+   },
+   "getStartedLetTryText": {
+      "description": "始めましょう画面",
+      "message": "さっそく試してみましょう"
+   },
+   "getStartedSubTitleText": {
+      "description": "始めましょう画面",
+      "message": "GPT-4 によって可能にされた革命的な Google Meet インスタント回答拡張機能"
+   },
+   "getStartedTitleText": {
+      "description": "始めましょう画面",
+      "message": "Ask_me がインストールされました"
+   },
+   "goToResponsesNavigation": {
+      "description": "ナビゲーションコントロール",
+      "message": "回答に移動"
+   },
+   "goToSettingsPage": {
+      "description": "オプションモジュール",
+      "message": "すべての設定"
+   },
+   "goToTranscriptNavigation": {
+      "description": "ナビゲーションコントロール",
+      "message": "トランスクリプトに移動"
+   },
+   "loginButton": {
+      "description": "アラートメッセージ",
+      "message": "ログイン"
+   },
+   "maximizeText": {
+      "description": "オプションモジュール",
+      "message": "最大化"
+   },
+   "minimizeDialogButtonSettingsText": {
+      "description": "オプションモジュール",
+      "message": "メッセージボタンを最小化する"
+   },
+   "minimizeText": {
+      "description": "オプションモジュール",
+      "message": "最小化"
+   },
+   "needToLoginAlertMsg": {
+      "description": "アラートメッセージ",
+      "message": "サービスを利用するにはログインが必要です"
+   },
+   "needToLoginText": {
+      "description": "質問ボタンのツールチップ",
+      "message": "**ログインが必要です**"
+   },
+   "nextButtonNavigation": {
+      "description": "ナビゲーションコントロール",
+      "message": "次へ"
+   },
+   "openText": {
+      "description": "ポップアップ",
+      "message": "開く"
+   },
+   "popupItemOneText": {
+      "description": "ポップアップ",
+      "message": "完全な会議のトランスクリプト"
+   },
+   "popupItemSecondText": {
+      "description": "ポップアップ",
+      "message": "質問にリアルタイムで答える"
+   },
+   "popupTittleText": {
+      "description": "ポップアップ",
+      "message": "ChatGPT による個人的な会議アシスタント"
+   },
+   "prevButtonNavigation": {
+      "description": "ナビゲーションコントロール",
+      "message": "前へ"
+   },
+   "searchParticipantPlaceholder": {
+      "description": "参加者フィルター",
+      "message": "人を検索"
+   },
+   "settingsText": {
+      "description": "オプションモジュール",
+      "message": "設定"
+   },
+   "sizeExtraLargeText": {
+      "description": "オプションモジュール",
+      "message": "特大"
+   },
+   "sizeLargeText": {
+      "description": "オプションモジュール",
+      "message": "大"
+   },
+   "sizeMediumText": {
+      "description": "オプションモジュール",
+      "message": "中"
+   },
+   "sizeSmallText": {
+      "description": "オプションモジュール",
+      "message": "小"
+   },
+   "startTalkingMessage": {
+      "description": "ダイアログモジュール",
+      "message": "話し始めるだけ"
+   },
+   "successfulCopiedMessage": {
+      "description": "コピーのモジュール",
+      "message": "コピーしました！"
+   }
+}

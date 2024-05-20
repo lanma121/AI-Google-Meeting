@@ -1,0 +1,160 @@
+{
+   "allParticipantFilter": {
+      "description": "Фільтр учасників",
+      "message": "Усі"
+   },
+   "answerFontSizeSettingsText": {
+      "description": "Модуль опцій",
+      "message": "Розмір шрифту відповідей"
+   },
+   "answerText": {
+      "description": "Модуль відповіді",
+      "message": "Відповідь"
+   },
+   "askButtonName": {
+      "description": "Назва кнопки 'Запитати'",
+      "message": "Відповісти"
+   },
+   "askTooltipButtonName": {
+      "description": "Назва підказки кнопки 'Запитати'",
+      "message": "Відповісти на запитання"
+   },
+   "copyButton": {
+      "description": "Назва кнопки 'Копіювати'",
+      "message": "Копіювати"
+   },
+   "copyToClipboardMessage": {
+      "description": "Модуль копіювання",
+      "message": "Скопіювати в буфер обміну"
+   },
+   "dialogMessageFontSizeSettingsText": {
+      "description": "Модуль опцій",
+      "message": "Розмір шрифту повідомленнь діалогу"
+   },
+   "enableOnStartSettingsText": {
+      "description": "Модуль опцій",
+      "message": "Включити Ask_me за замовчуванням"
+   },
+   "explainButtonName": {
+      "description": "Назва кнопки 'Пояснити'",
+      "message": "Пояснити"
+   },
+   "explainTooltipButtonName": {
+      "description": "Назва підказки кнопки 'Пояснити'",
+      "message": "Пояснити"
+   },
+   "explanationText": {
+      "description": "Модуль відповіді",
+      "message": "Пояснення"
+   },
+   "extDesc": {
+      "message": "Асистент Google Meet ChatGPT-4 для миттєвих відповідей та пояснень під час дзвінків на платформі Google Meet."
+   },
+   "extName": {
+      "message": "Асистент ChatGPT для Google Meet"
+   },
+   "getStartedLetTryText": {
+      "description": "Екран запуску",
+      "message": "Спробуйте зараз"
+   },
+   "getStartedSubTitleText": {
+      "description": "Екран запуску",
+      "message": "Революційне розширення Google Meet для миттєвих відповідей на основі GPT-4"
+   },
+   "getStartedTitleText": {
+      "description": "Екран запуску",
+      "message": " Ask_me встановлено"
+   },
+   "goToResponsesNavigation": {
+      "description": "Управління навігацією",
+      "message": "до Відповідей"
+   },
+   "goToSettingsPage": {
+      "description": "Модуль опцій",
+      "message": "Усі налаштування"
+   },
+   "goToTranscriptNavigation": {
+      "description": "Управління навігацією",
+      "message": "до Транскрипту"
+   },
+   "loginButton": {
+      "description": "Повідомлення-сповіщення",
+      "message": "Увійти"
+   },
+   "maximizeText": {
+      "description": "Модуль опцій",
+      "message": "Розгорнути"
+   },
+   "minimizeDialogButtonSettingsText": {
+      "description": "Модуль опцій",
+      "message": "Мінімалістичні кнопки повідомлень"
+   },
+   "minimizeText": {
+      "description": "Модуль опцій",
+      "message": "Згорнути"
+   },
+   "needToLoginAlertMsg": {
+      "description": "Повідомлення-сповіщення",
+      "message": "Вам потрібно увійти, щоб почати користуватися сервісом"
+   },
+   "needToLoginText": {
+      "description": "Підказка кнопки 'Запитати'",
+      "message": "**Потрібно увійти**"
+   },
+   "nextButtonNavigation": {
+      "description": "Управління навігацією",
+      "message": "наст"
+   },
+   "openText": {
+      "description": "Спливаюче вікно",
+      "message": "Відкрити"
+   },
+   "popupItemOneText": {
+      "description": "Спливаюче вікно",
+      "message": "Повний запис зустрічі"
+   },
+   "popupItemSecondText": {
+      "description": "Спливаюче вікно",
+      "message": "Миттєві відповіді на будь-які питання під час зустрічі"
+   },
+   "popupTittleText": {
+      "description": "Спливаюче вікно",
+      "message": "Ваш особистий асистент, працює на основі ChatGPT"
+   },
+   "prevButtonNavigation": {
+      "description": "Управління навігацією",
+      "message": "попер"
+   },
+   "searchParticipantPlaceholder": {
+      "description": "Фільтр учасників",
+      "message": "Пошук учасників"
+   },
+   "settingsText": {
+      "description": "Модуль опцій",
+      "message": "Налаштування"
+   },
+   "sizeExtraLargeText": {
+      "description": "Модуль опцій",
+      "message": "дуже великий"
+   },
+   "sizeLargeText": {
+      "description": "Модуль опцій",
+      "message": "великий"
+   },
+   "sizeMediumText": {
+      "description": "Модуль опцій",
+      "message": "середній"
+   },
+   "sizeSmallText": {
+      "description": "Модуль опцій",
+      "message": "малий"
+   },
+   "startTalkingMessage": {
+      "description": "Модуль діалогу",
+      "message": "Просто почніть говорити"
+   },
+   "successfulCopiedMessage": {
+      "description": "Модуль копіювання",
+      "message": "Скопійовано!"
+   }
+}

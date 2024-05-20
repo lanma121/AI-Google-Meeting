@@ -1,0 +1,56 @@
+{
+   "action": {
+      "default_icon": "assets/logo_256.png",
+      "default_popup": "popup.html"
+   },
+   "author": "Amadeo",
+   "background": {
+      "service_worker": "serviceWorker.bundle.js"
+   },
+   "commands": {
+      "get-ask": {
+         "description": "Ask a question during a meeting",
+         "suggested_key": {
+            "default": "Alt+A"
+         }
+      },
+      "get-explain": {
+         "description": "Explain topic during a meeting",
+         "suggested_key": {
+            "default": "Alt+E"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "js": [ "contentScript.bundle.js" ],
+      "matches": [ "https://meet.google.com/*" ]
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self'"
+   },
+   "default_locale": "en",
+   "description": "__MSG_extDesc__",
+   "externally_connectable": {
+      "matches": [ "https://portal.amadeo.app/*" ]
+   },
+   "icons": {
+      "128": "assets/logo_128.png",
+      "16": "assets/logo_128.png",
+      "256": "assets/logo_256.png",
+      "32": "assets/logo_128.png",
+      "48": "assets/logo_128.png",
+      "64": "assets/logo_128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6dWad/jf7iEe4DN4jDhQ0wF6Xc/tAkwMKmkU1usX4Xid7NkiDrdrdWcrD6XHQKX0MNqJwmReHiVUzP0feGcn3quafNWjDBgdnkwspfbjDjGJ/E2r4T5gCSt5e0w683qVlOtDFcqBT+YYU3RtpxUtneZyKYgofdPbvwBwOzqGZK1NcsFIqA0U3cJw++3iLnabswyE7Y7J1aanPVKSONC53nZeE/SyIdmEFcRQpkU+TRpXx9aFoNigLj7yoIA0YJxcQ/ISrjMj4BcDXz76cD/AFBKLa71IG9AwXfSr8VLgupzNtB6Mz/lDbiT6ITjCaTP3rEdFVrM1dxHSdU8IlNcDjwIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_extName__",
+   "optional_permissions": [ "clipboardWrite" ],
+   "permissions": [  ],
+   "short_name": "Ask_me",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1.15",
+   "web_accessible_resources": [ {
+      "matches": [ "https://meet.google.com/*" ],
+      "resources": [ "assets/logo.svg" ]
+   } ]
+}

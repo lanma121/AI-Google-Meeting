@@ -1,0 +1,160 @@
+{
+   "allParticipantFilter": {
+      "description": "参与者过滤器",
+      "message": "全部"
+   },
+   "answerFontSizeSettingsText": {
+      "description": "选项模块",
+      "message": "答案字体大小"
+   },
+   "answerText": {
+      "description": "答案模块",
+      "message": "答案"
+   },
+   "askButtonName": {
+      "description": "提问按钮名称",
+      "message": "提问"
+   },
+   "askTooltipButtonName": {
+      "description": "提问按钮的提示",
+      "message": "提出问题"
+   },
+   "copyButton": {
+      "description": "复制按钮名称",
+      "message": "复制"
+   },
+   "copyToClipboardMessage": {
+      "description": "复制模块",
+      "message": "复制到剪贴板"
+   },
+   "dialogMessageFontSizeSettingsText": {
+      "description": "选项模块",
+      "message": "对话消息字体大小"
+   },
+   "enableOnStartSettingsText": {
+      "description": "选项模块",
+      "message": "默认启用Ask_me"
+   },
+   "explainButtonName": {
+      "description": "解释按钮名称",
+      "message": "解释"
+   },
+   "explainTooltipButtonName": {
+      "description": "解释按钮的提示",
+      "message": "解释"
+   },
+   "explanationText": {
+      "description": "答案模块",
+      "message": "解释"
+   },
+   "extDesc": {
+      "message": "Google Meet上的ChatGPT-4助手，用于在Google Meet平台上的通话期间提供即时答案和语音解释。"
+   },
+   "extName": {
+      "message": "ChatGPT助手 for Google Meet"
+   },
+   "getStartedLetTryText": {
+      "description": "入门屏幕",
+      "message": "现在让我们试试吧"
+   },
+   "getStartedSubTitleText": {
+      "description": "入门屏幕",
+      "message": "由GPT-4驱动的革命性Google Meet即时答案扩展"
+   },
+   "getStartedTitleText": {
+      "description": "入门屏幕",
+      "message": "已安装Ask_me"
+   },
+   "goToResponsesNavigation": {
+      "description": "导航控制",
+      "message": "前往答复"
+   },
+   "goToSettingsPage": {
+      "description": "选项模块",
+      "message": "所有设置"
+   },
+   "goToTranscriptNavigation": {
+      "description": "导航控制",
+      "message": "转到成绩单"
+   },
+   "loginButton": {
+      "description": "登录按钮名称",
+      "message": "登录"
+   },
+   "maximizeText": {
+      "description": "选项模块",
+      "message": "最大化"
+   },
+   "minimizeDialogButtonSettingsText": {
+      "description": "选项模块",
+      "message": "最小化消息按钮"
+   },
+   "minimizeText": {
+      "description": "选项模块",
+      "message": "最小化"
+   },
+   "needToLoginAlertMsg": {
+      "description": "警示信息",
+      "message": "您需要登录以开始使用服务"
+   },
+   "needToLoginText": {
+      "description": "提问按钮的提示",
+      "message": "**需要登录**"
+   },
+   "nextButtonNavigation": {
+      "description": "导航控制",
+      "message": "下一页"
+   },
+   "openText": {
+      "description": "弹出窗口",
+      "message": "打开"
+   },
+   "popupItemOneText": {
+      "description": "弹出窗口",
+      "message": "完整会议副本"
+   },
+   "popupItemSecondText": {
+      "description": "弹出窗口",
+      "message": "实时回答任何会议问题"
+   },
+   "popupTittleText": {
+      "description": "弹出窗口",
+      "message": "由ChatGPT提供支持的您的个人会议助手"
+   },
+   "prevButtonNavigation": {
+      "description": "导航控制",
+      "message": "上一页"
+   },
+   "searchParticipantPlaceholder": {
+      "description": "参与者过滤器",
+      "message": "搜索人员"
+   },
+   "settingsText": {
+      "description": "选项模块",
+      "message": "设置"
+   },
+   "sizeExtraLargeText": {
+      "description": "选项模块",
+      "message": "特大"
+   },
+   "sizeLargeText": {
+      "description": "选项模块",
+      "message": "大"
+   },
+   "sizeMediumText": {
+      "description": "选项模块",
+      "message": "中"
+   },
+   "sizeSmallText": {
+      "description": "选项模块",
+      "message": "小"
+   },
+   "startTalkingMessage": {
+      "description": "对话模块",
+      "message": "只需开始说话"
+   },
+   "successfulCopiedMessage": {
+      "description": "复制模块",
+      "message": "已复制！"
+   }
+}

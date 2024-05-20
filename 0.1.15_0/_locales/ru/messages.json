@@ -1,0 +1,160 @@
+{
+   "allParticipantFilter": {
+      "description": "Фильтр участников",
+      "message": "Все"
+   },
+   "answerFontSizeSettingsText": {
+      "description": "Модуль опций",
+      "message": "Размер шрифта ответов"
+   },
+   "answerText": {
+      "description": "Модуль ответа",
+      "message": "Ответ"
+   },
+   "askButtonName": {
+      "description": "Название кнопки 'Спросить'",
+      "message": "Ответить"
+   },
+   "askTooltipButtonName": {
+      "description": "Название подсказки кнопки 'Спросить'",
+      "message": "Ответить на вопрос"
+   },
+   "copyButton": {
+      "description": "Название кнопки 'Копировать'",
+      "message": "Копировать"
+   },
+   "copyToClipboardMessage": {
+      "description": "Модуль копирования",
+      "message": "Скопировать в буфер обмена"
+   },
+   "dialogMessageFontSizeSettingsText": {
+      "description": "Модуль опций",
+      "message": "Размер шрифта сообщений диалога"
+   },
+   "enableOnStartSettingsText": {
+      "description": "Модуль опций",
+      "message": "Включить Ask_me по умолчанию"
+   },
+   "explainButtonName": {
+      "description": "Название кнопки 'Объяснить'",
+      "message": "Объяснить"
+   },
+   "explainTooltipButtonName": {
+      "description": "Название подсказки кнопки 'Объяснить'",
+      "message": "Объяснить"
+   },
+   "explanationText": {
+      "description": "Модуль ответа",
+      "message": "Объяснение"
+   },
+   "extDesc": {
+      "message": "Ассистент Google Meet ChatGPT-4 для мгновенных ответов и объяснений во время звонков на платформе Google Meet."
+   },
+   "extName": {
+      "message": "Ассистент ChatGPT для Google Meet"
+   },
+   "getStartedLetTryText": {
+      "description": "Экран запуска",
+      "message": "Попробуйте сейчас"
+   },
+   "getStartedSubTitleText": {
+      "description": "Экран запуска",
+      "message": "Революционное расширение Google Meet с мгновенными ответами на основе GPT-4"
+   },
+   "getStartedTitleText": {
+      "description": "Экран запуска",
+      "message": "Ask_me установлен"
+   },
+   "goToResponsesNavigation": {
+      "description": "Управление навигацией",
+      "message": "Ответы"
+   },
+   "goToSettingsPage": {
+      "description": "Модуль опций",
+      "message": "Все настройки"
+   },
+   "goToTranscriptNavigation": {
+      "description": "Управление навигацией",
+      "message": "Транскрипт"
+   },
+   "loginButton": {
+      "description": "Сообщение-оповещение",
+      "message": "Войти"
+   },
+   "maximizeText": {
+      "description": "Модуль опций",
+      "message": "Развернуть"
+   },
+   "minimizeDialogButtonSettingsText": {
+      "description": "Модуль опций",
+      "message": "Минималистичные кнопки сообщений"
+   },
+   "minimizeText": {
+      "description": "Модуль опций",
+      "message": "Свернуть"
+   },
+   "needToLoginAlertMsg": {
+      "description": "Сообщение-оповещение",
+      "message": "Для начала использования сервиса требуется войти"
+   },
+   "needToLoginText": {
+      "description": "Подсказка кнопки 'Спросить'",
+      "message": "**Требуется авторизироваться**"
+   },
+   "nextButtonNavigation": {
+      "description": "Управление навигацией",
+      "message": "вперед"
+   },
+   "openText": {
+      "description": "Сплывающее окно",
+      "message": "Открыть"
+   },
+   "popupItemOneText": {
+      "description": "Сплывающее окно",
+      "message": "Полная запись митинга"
+   },
+   "popupItemSecondText": {
+      "description": "Сплывающее окно",
+      "message": "Мгновенные ответы на любые вопросы во время митинга"
+   },
+   "popupTittleText": {
+      "description": "Сплывающее окно",
+      "message": "Ваш персональный ассистент, работает на основе ChatGPT"
+   },
+   "prevButtonNavigation": {
+      "description": "Управление навигацией",
+      "message": "назад"
+   },
+   "searchParticipantPlaceholder": {
+      "description": "Фильтр участников",
+      "message": "Поиск участников"
+   },
+   "settingsText": {
+      "description": "Модуль опций",
+      "message": "Настройки"
+   },
+   "sizeExtraLargeText": {
+      "description": "Модуль опций",
+      "message": "очень большой"
+   },
+   "sizeLargeText": {
+      "description": "Модуль опций",
+      "message": "большой"
+   },
+   "sizeMediumText": {
+      "description": "Модуль опций",
+      "message": "средний"
+   },
+   "sizeSmallText": {
+      "description": "Модуль опций",
+      "message": "маленький"
+   },
+   "startTalkingMessage": {
+      "description": "Модуль диалога",
+      "message": "Просто начните разговаривать"
+   },
+   "successfulCopiedMessage": {
+      "description": "Модуль копирования",
+      "message": "Скопировано!"
+   }
+}

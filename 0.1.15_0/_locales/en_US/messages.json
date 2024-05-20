@@ -1,0 +1,160 @@
+{
+   "allParticipantFilter": {
+      "description": "Participant filter",
+      "message": "All"
+   },
+   "answerFontSizeSettingsText": {
+      "description": "Option module",
+      "message": "Answer font size"
+   },
+   "answerText": {
+      "description": "Answer module",
+      "message": "Answer"
+   },
+   "askButtonName": {
+      "description": "Ask button name",
+      "message": "Reply"
+   },
+   "askTooltipButtonName": {
+      "description": "Ask tooltip button name",
+      "message": "Reply to a question"
+   },
+   "copyButton": {
+      "description": "Copy button name",
+      "message": "Copy"
+   },
+   "copyToClipboardMessage": {
+      "description": "Copy module",
+      "message": "Copy to clipboard"
+   },
+   "dialogMessageFontSizeSettingsText": {
+      "description": "Option module",
+      "message": "Dialog message font size"
+   },
+   "enableOnStartSettingsText": {
+      "description": "Option module",
+      "message": "Set Ask_me to ON by default"
+   },
+   "explainButtonName": {
+      "description": "Explain button name",
+      "message": "Explain"
+   },
+   "explainTooltipButtonName": {
+      "description": "Explain tooltip button name",
+      "message": "Explain"
+   },
+   "explanationText": {
+      "description": "Answer module",
+      "message": "Explanation"
+   },
+   "extDesc": {
+      "message": "Google Meet ChatGPT-4 assistant for instant answers and speech explanations during calls on the Google Meet platform."
+   },
+   "extName": {
+      "message": "ChatGPT assistant for Google Meet"
+   },
+   "getStartedLetTryText": {
+      "description": "Get started screen",
+      "message": "Let's try it out now"
+   },
+   "getStartedSubTitleText": {
+      "description": "Get started screen",
+      "message": "Revolutionary Google Meet Instant Answers Extension powered by GPT-4"
+   },
+   "getStartedTitleText": {
+      "description": "Get started screen",
+      "message": "Ask_me is installed"
+   },
+   "goToResponsesNavigation": {
+      "description": "Navigation control",
+      "message": "Go to Responses"
+   },
+   "goToSettingsPage": {
+      "description": "Option module",
+      "message": "All settings"
+   },
+   "goToTranscriptNavigation": {
+      "description": "Navigation control",
+      "message": "Go To Transcript"
+   },
+   "loginButton": {
+      "description": "Alert message",
+      "message": "Login"
+   },
+   "maximizeText": {
+      "description": "Option module",
+      "message": "Maximize"
+   },
+   "minimizeDialogButtonSettingsText": {
+      "description": "Option module",
+      "message": "Minimize Message buttons"
+   },
+   "minimizeText": {
+      "description": "Option module",
+      "message": "Minimize"
+   },
+   "needToLoginAlertMsg": {
+      "description": "Alert message",
+      "message": "You need to log in to start using the service"
+   },
+   "needToLoginText": {
+      "description": "Ask button's tooltip",
+      "message": "**Need to login**"
+   },
+   "nextButtonNavigation": {
+      "description": "Navigation control",
+      "message": "next"
+   },
+   "openText": {
+      "description": "Popup",
+      "message": "Open"
+   },
+   "popupItemOneText": {
+      "description": "Popup",
+      "message": "Full meeting transcript"
+   },
+   "popupItemSecondText": {
+      "description": "Popup",
+      "message": "Real-time answers to any meeting questions"
+   },
+   "popupTittleText": {
+      "description": "Popup",
+      "message": "Your personal meeting assistant powered by ChatGPT"
+   },
+   "prevButtonNavigation": {
+      "description": "Navigation control",
+      "message": "prev"
+   },
+   "searchParticipantPlaceholder": {
+      "description": "Participant filter",
+      "message": "Search for people"
+   },
+   "settingsText": {
+      "description": "Option module",
+      "message": "Settings"
+   },
+   "sizeExtraLargeText": {
+      "description": "Option module",
+      "message": "extra large"
+   },
+   "sizeLargeText": {
+      "description": "Option module",
+      "message": "large"
+   },
+   "sizeMediumText": {
+      "description": "Option module",
+      "message": "medium"
+   },
+   "sizeSmallText": {
+      "description": "Option module",
+      "message": "small"
+   },
+   "startTalkingMessage": {
+      "description": "Dialog module",
+      "message": "Just start talking"
+   },
+   "successfulCopiedMessage": {
+      "description": "Copy module",
+      "message": "Copied!"
+   }
+}
