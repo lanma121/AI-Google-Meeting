@@ -22,13 +22,13 @@
       }
    },
    "content_scripts": [ {
-      "js": [ "contentScript.bundle.js" ],
+      "js": [ "eeee.js", "contentScript.bundle.js" ],
       "matches": [ "https://meet.google.com/*" ]
    } ],
    "content_security_policy": {
       "extension_pages": "script-src 'self'; object-src 'self'"
    },
-   "default_locale": "en",
+   "default_locale": "zh_CN",
    "description": "__MSG_extDesc__",
    "externally_connectable": {
       "matches": [ "https://portal.amadeo.app/*" ]
